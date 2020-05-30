@@ -1,0 +1,22 @@
+
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
+
+th {
+	border-bottom:1px solid gray;
+	background:none repeat scroll 0 0 #0775d3;
+	padding:10px;
+	color: #FFFFFF;
+}
+
+tr {
+	border-top:1px solid gray;
+	text-align:center;	
+}
+.Error{
+	color:red;
+}
