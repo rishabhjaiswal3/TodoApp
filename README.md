@@ -1,19 +1,8 @@
 # TodoApp
-This is the Jsp, Servlet Based WebApp. Main Idea behind Making this project is to learn<b>MVC Architecture </b>
-
-# Dependencies
-<ul>
-      <li> <a href="https://en.wikipedia.org/wiki/Java_Development_Kit">JDK</a> </li>
-      <li> <a href="https://www.eclipse.org/">Ecllipse</a> </li>
-      <li> <a href="https://www.mysql.com/"> MySQL</a> </li>
-      <li> <a href="https://en.wikipedia.org/wiki/Apache_Tomcat">Apache tomcat</a> </li>
-<li><a 
-  href="https://en.wikipedia.org/wiki/MySQL_Connector/ODBC#:~:text=MySQL%20Connector%2FODBC%2C%20once%20known,originally%20created%20by%20MySQL%20AB.">Java MySQL Connector</a></li>
+This is the Jsp, Servlet Based WebApp. Main Idea behind Making this project is to learn<b>MVC Architecture.</b>
       
-</ul>
 
-
-# Working   
+# Working Demo
 
 When You will start this application then it will show you the Welcome Page. In sign Page when you submit the details then it will store you account details and Make you Own database where it will handle your tasks.
 
@@ -31,7 +20,26 @@ When You will start this application then it will show you the Welcome Page. In 
       </tr>
 </table>
     
-# SetUp
+# SetUp Database
+<ol>
+      <li>Install MySQL and set the password "Rishabh@123" or change the password in DbClient.java file and Tasks.Java</li>
+      <li>Create a database named "TodoaApp".</li>
+      <li>Create a Table name "account".</li>
+      <li>account table will have id(int), name(varchar(50)), email(varchar(50)) and password(varchar(50)) fields. Where id is a primary key in auto Increment.</li>
+      
+</ol>
+      
+
+
+
+
+
+
+
+
+
+
+# Local SetUp
 To do the setup on your Local Machine You have to do the basic steps:
 
 <table>
@@ -61,5 +69,3 @@ To do the setup on your Local Machine You have to do the basic steps:
 Html and CSS 
 <h3>Backend </h3>
 Jsp and Servlet
-
-      
