@@ -1,5 +1,5 @@
 # TodoApp
-This is the Jsp, Servlet Based WebApp. Main Idea behind Making this project is to learn <b> distributed System Architecture </b> and <b>MVC Architecture </b>
+This is the Jsp, Servlet Based WebApp. Main Idea behind Making this project is to learn and <b>MVC Architecture </b>
 
 # Dependencies
 <ul>
