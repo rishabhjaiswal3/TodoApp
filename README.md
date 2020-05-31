@@ -2,15 +2,15 @@
 This is the Jsp, Servlet Based WebApp. Main Idea behind Making this project is to learn <b> distributed System Architecture </b> and <b>MVC Architecture </b>
 
 # Dependencies
-<a href="https://en.wikipedia.org/wiki/Java_Development_Kit">JDK</a>
-<br/>
-<a href="https://www.eclipse.org/">Ecllipse</a>
-<br/>
-<a href="https://www.mysql.com/"> MySQL</a>
-<br/>
-<a href="https://en.wikipedia.org/wiki/Apache_Tomcat">Apache tomcat</a>
-<br/>
-<a href="https://en.wikipedia.org/wiki/MySQL_Connector/ODBC#:~:text=MySQL%20Connector%2FODBC%2C%20once%20known,originally%20created%20by%20MySQL%20AB.">Java MySQL Connector</a>
+<ul>
+      <li> <a href="https://en.wikipedia.org/wiki/Java_Development_Kit">JDK</a> </li>
+      <li> <a href="https://www.eclipse.org/">Ecllipse</a> </li>
+      <li> <a href="https://www.mysql.com/"> MySQL</a> </li>
+      <li> <a href="https://en.wikipedia.org/wiki/Apache_Tomcat">Apache tomcat</a> </li>
+<li><a 
+  href="https://en.wikipedia.org/wiki/MySQL_Connector/ODBC#:~:text=MySQL%20Connector%2FODBC%2C%20once%20known,originally%20created%20by%20MySQL%20AB.">Java MySQL Connector</a></li>
+      
+</ul>
 
 
 # Working   
