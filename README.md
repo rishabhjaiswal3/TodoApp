@@ -3,10 +3,12 @@ This is the Jsp, Servlet Based WebApp. Main Idea behind Making this project is t
 
 # Working   
 
+When You will start this application then it will show you the Welcome Page. In sign Page when you submit the details then it will store you account details and Make you Own database where it will handle your tasks.
+
 <table width="100%">
       <tr>
          <td><img  src="https://user-images.githubusercontent.com/46244176/83347499-02015700-a343-11ea-8475-7da5acf4facd.png" height="200" style="padding: 0 0 0 0" width="500"/></td>
-         <td style="text-align:left;"><img class="logo" height="200" src="https://user-images.githubusercontent.com/46244176/83347701-578a3380-a344-11ea-9e99-b44e547d7150.png" width="500"/></td>
+         <td style="text-align:left;"><img class="logo" height="200" src="https://user-images.githubusercontent.com/46244176/83347695-4fca8f00-a344-11ea-9898-1cef407d9fd3.png" width="500"/></td>
       </tr>
 </table>
     
@@ -17,5 +19,29 @@ This is the Jsp, Servlet Based WebApp. Main Idea behind Making this project is t
       </tr>
 </table>
     
-    
-</div>
+# SetUp
+To do the setup on your Local Machine You have to do the basic steps:
+
+<table>
+      <tr>
+            <td>Step 1:</td>
+            <td>Install mysql and Make a database <b>TodoApp</b> and then make a account Table.</td>
+      </tr>
+      <tr>
+            <td>Step 2:</td>
+            <td>Install Tomcat </td>
+      </tr>
+      <tr>
+            <td>Step 3:</td>
+            <td>Download the War file from My Github Repository </td>
+      </tr>
+      <tr>
+            <td>Step 4:</td>
+            <td>Put the war file in webapp in Apache Tomcat folder</td>
+      </tr>
+      <tr>
+            <td>Step 5:</td>
+            <td>Run this <a href="http://localhost:8080/NewTodoApp/Welcome.jsp">Link</a> on you Machine </td>
+      </tr>
+</table>
+      
