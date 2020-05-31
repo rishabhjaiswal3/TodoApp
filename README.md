@@ -1,6 +1,18 @@
 # TodoApp
 This is the Jsp, Servlet Based WebApp. Main Idea behind Making this project is to learn <b> distributed System Architecture </b> and <b>MVC Architecture </b>
 
+# Dependencies
+<a href="https://en.wikipedia.org/wiki/Java_Development_Kit">JDK</a>
+<br/>
+<a href="https://www.eclipse.org/">Ecllipse</a>
+<br/>
+<a href="https://www.mysql.com/"> MySQL</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Apache_Tomcat">Apache tomcat</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/MySQL_Connector/ODBC#:~:text=MySQL%20Connector%2FODBC%2C%20once%20known,originally%20created%20by%20MySQL%20AB.">Java MySQL Connector</a>
+
+
 # Working   
 
 When You will start this application then it will show you the Welcome Page. In sign Page when you submit the details then it will store you account details and Make you Own database where it will handle your tasks.
