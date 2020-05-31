@@ -56,4 +56,10 @@ To do the setup on your Local Machine You have to do the basic steps:
             <td>Run this <a href="http://localhost:8080/NewTodoApp/Welcome.jsp">Link</a> on you Machine </td>
       </tr>
 </table>
+
+<h3>Frontend</h3>
+Html and CSS 
+<h3>Backend </h3>
+Jsp and Servlet
+
       
