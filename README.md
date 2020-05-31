@@ -1,5 +1,5 @@
 # TodoApp
-This is the Jsp, Servlet Based WebApp. Main Idea behind Making this project is to learn and <b>MVC Architecture </b>
+This is the Jsp, Servlet Based WebApp. Main Idea behind Making this project is to learn<b>MVC Architecture </b>
 
 # Dependencies
 <ul>
@@ -53,7 +53,7 @@ To do the setup on your Local Machine You have to do the basic steps:
       </tr>
       <tr>
             <td>Step 5:</td>
-            <td>Run this <a href="http://localhost:8080/NewTodoApp/Welcome.jsp">Link</a> on you Machine </td>
+            <td>Run this <a href="http://localhost:8080/NewTodoApp/Welcome.jsp">Link</a> on your Machine </td>
       </tr>
 </table>
 
